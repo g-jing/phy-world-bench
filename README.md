@@ -183,7 +183,7 @@ The script will analyze the results and calculate:
 ├── prompts-with-standard-and-index.json  # Contains evaluation standards
 └── prompt_index_to_prompt.json          # Contains prompts for video generation
 ```
-
+<!-- 
 ## Output Format
 
 The evaluation results are saved in JSON files with the following structure:
@@ -207,7 +207,7 @@ The evaluation results are saved in JSON files with the following structure:
         "Standard_2": "Yes/No"
     }
 }
-```
+``` -->
 
 ## Analysis Results
 
