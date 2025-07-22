@@ -1,7 +1,7 @@
 # PhyWorldBench 🚀
 
 **A Comprehensive Evaluation of Physical Realism in Text‑to‑Video Models**  
-[arXiv Paper (2507.13428)](https://arxiv.org/abs/2507.13428) • [NVIDIA Research Page](https://research.nvidia.com/labs/dir/phyworldbench/) • [Dataset 🤗](https://huggingface.co/datasets/ashwin333/phyworldbench)  
+[arXiv Paper (2507.13428)](https://arxiv.org/abs/2507.13428) • [NVIDIA Research Page](https://research.nvidia.com/labs/dir/phyworldbench/) • [Dataset 🤗](https://huggingface.co/datasets/phyworldbench/phyworldbench)  
 [Jing Gu](https://g-jing.github.io/) • [Xian Liu](https://alvinliu0.github.io/) • [Yu Zeng](https://zengxianyu.github.io/) • [Ashwin Nagarajan](https://github.com/ASHWIN333) • [Fangrui Zhu](https://fangruizhu.github.io/) • [Daniel Hong](https://github.com/danielh-hong) • [Yue Fan](https://yfan.site/) • [Qianqi Yan](https://jackie-2000.github.io/) • [Kaiwen Zhou](https://kevinz-01.github.io/) • [Ming‑Yu Liu](https://mingyuliu.net/) • [Xin Eric Wang](https://eric-xw.github.io/)
 
 
